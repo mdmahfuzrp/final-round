@@ -20,7 +20,7 @@ body{
     position: relative;
 }
 .orange{
-    width: 60px;
+    width: 70px;
     height: 200px;
     background-color: #C4B832;
     transform: skew(20deg);
@@ -28,28 +28,27 @@ body{
     left: 100px;
 }
 .white{
-    width: 60px;
+    width: 70px;
     height: 200px;
-    background-color: #ccc;
+    background-color: #FDF9CA;
     transform: skew(-20deg);
     position: absolute;
-
 }
 .bottom-left{
-    width: 80px;
-    height: 100px;
+    width: 70px;
+    height: 80px;
     background-color: #AB445F;
     transform: skew(31deg);
     position: absolute;
-    right: 45px;
-    top: 100px;
+    right: 35px;
+    top: 120px;
 }
 .bottom-right{
-    width: 80px;
-    height: 100px;
+    width: 70px;
+    height: 80px;
     background-color: #E28F65;
     transform: skew(-35deg);
     position: absolute;
     left: 10px;
-    top: 100px;
+    top: 120px;
 }
